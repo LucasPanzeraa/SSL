@@ -1,0 +1,1 @@
+El compilador seleccionado para realizar el trabajo fue minGW, con la version (MinGW.org GCC-6.3.0-1) 6.3.0 y la version de C que el compilador compila es la C11
